@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @GrigoreRobu
-- 👀 I’m interested in Coding
+- 👋 Hi, I’m Grigore
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning C, Java and Python.
 
 <!---
